@@ -19,8 +19,8 @@
 <br> ✔ Bước 5: Trực quan hóa dữ liệu (biểu đồ doanh thu, sản phẩm bán chạy).
 ## 🎯 5. Kết quả đạt được
 <br> 📌 Phân loại khách hàng theo RFM: VIP, trung thành, tiềm năng...
-<br>📌 Mô hình dự đoán điểm chi tiêu với độ chính xác:
-<br>RMSE: 1.094, MAE: 0.934, R²: 0.414
+<br> 📌  Mô hình dự đoán điểm chi tiêu với độ chính xác:
+<br> -   RMSE: 1.094, MAE: 0.934, R²: 0.414
 <br> 📌 Biểu đồ trực quan giúp dễ dàng phân tích dữ liệu.
 ## 🏁 6. Cách chạy chương trình
 <br> 🔹 Chạy trên R Studio
