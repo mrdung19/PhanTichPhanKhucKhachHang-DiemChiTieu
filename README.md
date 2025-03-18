@@ -1,8 +1,8 @@
-📊 Phân tích phân khúc khách hàng & Dự đoán điểm chi tiêu
-🚀 1. Giới thiệu
+## 📊 Phân tích phân khúc khách hàng & Dự đoán điểm chi tiêu
+## 🚀 1. Giới thiệu
 Dự án này phân tích dữ liệu khách hàng bằng mô hình RFM và dự đoán điểm chi tiêu (M_Score) bằng hồi quy tuyến tính.
 🔹 Mục tiêu: Nhóm khách hàng, dự đoán chi tiêu, hỗ trợ chiến lược marketing.
-👥 2. Thành viên nhóm
+## 👥 2. Thành viên nhóm
 ✅ Nguyễn Đức Duy
 ✅ Nguyễn Minh Đức
 ✅ Nguyễn Tất Toàn
